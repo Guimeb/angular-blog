@@ -13,7 +13,6 @@ Este é um projeto desenvolvido como parte do bootcamp **DecolaTech 2025**, util
 
 ## 🧩 Funcionalidades
 
-- Criação e reutilização de componentes (`small-card`)
+- Criação e reutilização de componentes
 - Leitura e exibição de dados de um arquivo JSON
 - Estilização responsiva
-- Organização por módulos e boas práticas Angular
