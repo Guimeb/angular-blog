@@ -1,63 +1,62 @@
 [
-    {
-      "title": "Notícia 1",
-      "description": "Descrição da notícia 1...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 1 dia"
-    },
-    {
-      "title": "Notícia 2",
-      "description": "Descrição da notícia 2...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 3 horas"
-    },
-    {
-      "title": "Notícia 3",
-      "description": "Descrição da notícia 3...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 5 horas"
-    },
-    {
-      "title": "Notícia 4",
-      "description": "Descrição da notícia 4...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 6 horas"
-    },
-    {
-      "title": "Notícia 5",
-      "description": "Descrição da notícia 5...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 7 horas"
-    },
-    {
-      "title": "Notícia 6",
-      "description": "Descrição da notícia 6...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 8 horas"
-    },
-    {
-      "title": "Notícia 7",
-      "description": "Descrição da notícia 7...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 9 horas"
-    },
-    {
-      "title": "Notícia 8",
-      "description": "Descrição da notícia 8...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 10 horas"
-    },
-    {
-      "title": "Notícia 9",
-      "description": "Descrição da notícia 9...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 11 horas"
-    },
-    {
-      "title": "Notícia 10",
-      "description": "Descrição da notícia 10...",
-      "image": "./assets/Imagem criada.png",
-      "time": "Há 12 horas"
-    }
-  ]
-  
+  {
+    "title": "IA desafia artistas: nova era visual",
+    "description": "Artistas questionam a originalidade das criações feitas por inteligência artificial.",
+    "image": "./assets/Cat.png",
+    "time": "Há 1 dia"
+  },
+  {
+    "title": "Artistas processam IAs por uso indevido",
+    "description": "Ilustradores acusam IAs de usar obras sem autorização nos treinamentos.",
+    "image": "./assets/Cat.png",
+    "time": "Há 3 horas"
+  },
+  {
+    "title": "IA vence concurso de arte e causa debate",
+    "description": "Vitória de obra feita por IA levanta discussões sobre ética e mérito.",
+    "image": "./assets/Cat.png",
+    "time": "Há 5 horas"
+  },
+  {
+    "title": "Museus debatem arte feita por IA",
+    "description": "Curadores divergem sobre incluir arte gerada por IA em exposições.",
+    "image": "./assets/Cat.png",
+    "time": "Há 6 horas"
+  },
+  {
+    "title": "Plataformas criam filtros para proteger artistas",
+    "description": "Empresas ajustam IAs para evitar uso indevido de criações humanas.",
+    "image": "./assets/Cat.png",
+    "time": "Há 7 horas"
+  },
+  {
+    "title": "Artistas se dividem sobre uso de IA",
+    "description": "Alguns veem a IA como aliada, outros como ameaça à arte autoral.",
+    "image": "./assets/Cat.png",
+    "time": "Há 8 horas"
+  },
+  {
+    "title": "Nova lei propõe regras para arte por IA",
+    "description": "Projeto quer garantir direitos autorais frente à tecnologia.",
+    "image": "./assets/Cat.png",
+    "time": "Há 9 horas"
+  },
+  {
+    "title": "IA afeta mercado de ilustração",
+    "description": "Estudo mostra queda na demanda por ilustradores após boom da IA.",
+    "image": "./assets/Cat.png",
+    "time": "Há 10 horas"
+  },
+  {
+    "title": "Artistas protestam contra arte feita por IA",
+    "description": "Campanhas online pedem uso ético da IA nas artes visuais.",
+    "image": "./assets/Cat.png",
+    "time": "Há 11 horas"
+  },
+  {
+    "title": "Debate jurídico sobre IA e direitos autorais",
+    "description": "Especialistas pedem novas normas para lidar com criações por IA.",
+    "image": "./assets/Cat.png",
+    "time": "Há 12 horas"
+  }
+]

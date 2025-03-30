@@ -11,13 +11,20 @@
 .container {
   display: flex;
   gap: 1rem;
+  justify-content: space-evenly;
 }
 
 app-big-card {
   display: flex;
   align-items: center;
+  width: 40vh;
   justify-content: center;
 }
+
+.app-small-card {
+  max-width: 60vh;
+}
+
 
 .app-small-card {
   display: flex;
