@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Notícia 1",
+      "description": "Descrição da notícia 1...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 1 dia"
+    },
+    {
+      "title": "Notícia 2",
+      "description": "Descrição da notícia 2...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 3 horas"
+    },
+    {
+      "title": "Notícia 3",
+      "description": "Descrição da notícia 3...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 5 horas"
+    },
+    {
+      "title": "Notícia 4",
+      "description": "Descrição da notícia 4...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 6 horas"
+    },
+    {
+      "title": "Notícia 5",
+      "description": "Descrição da notícia 5...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 7 horas"
+    },
+    {
+      "title": "Notícia 6",
+      "description": "Descrição da notícia 6...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 8 horas"
+    },
+    {
+      "title": "Notícia 7",
+      "description": "Descrição da notícia 7...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 9 horas"
+    },
+    {
+      "title": "Notícia 8",
+      "description": "Descrição da notícia 8...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 10 horas"
+    },
+    {
+      "title": "Notícia 9",
+      "description": "Descrição da notícia 9...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 11 horas"
+    },
+    {
+      "title": "Notícia 10",
+      "description": "Descrição da notícia 10...",
+      "image": "./assets/Imagem criada.png",
+      "time": "Há 12 horas"
+    }
+  ]
+  

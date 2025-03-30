@@ -1,0 +1,36 @@
+.title-card{
+  position:relative;
+  padding: 0.5rem;
+  margin: 0.8em;
+  background-color: #1c1c1c;
+  border-radius: 8px;
+  box-shadow: rgb(18, 18, 18, 0.35) 0px 5px 15px;
+}
+.title-card-content{
+  gap: 1rem;
+}
+h1{
+  font-size:2rem;
+}
+img{
+  max-height: 100%;
+  max-width: 100%;
+  border-radius: 8px;
+}
+p{
+  font-size: 1rem;
+  margin-bottom:1.3rem;
+}
+
+.title-card:hover{
+  transition: all 0.1s;
+  background-color: #212121;
+  box-shadow: rgb(31, 31, 31, 0.35) 0px 5px 15px;
+}
+.time{
+  position: absolute;
+  margin: 0.5rem;
+  bottom: 0;
+  right: 0;
+  font-size:0.8rem;
+}

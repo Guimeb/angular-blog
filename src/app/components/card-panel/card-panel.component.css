@@ -1,0 +1,27 @@
+.panel-container{
+  margin: 1rem 5rem;
+}
+
+.divisor {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+}
+
+app-big-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-small-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5rem;
+}

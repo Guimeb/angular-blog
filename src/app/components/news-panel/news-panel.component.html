@@ -1,0 +1,14 @@
+<div class="news-container">
+  <h1>News</h1>
+  <div class="divisor"></div>
+  <div class="container">
+    <div class="app-small-card" *ngFor="let news of newsList">
+      <app-small-card
+        [title]="news.title"
+        [description]="news.description"
+        [image]="news.image"
+        [time]="news.time"
+      ></app-small-card>
+    </div>
+  </div>
+</div>

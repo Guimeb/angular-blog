@@ -1,0 +1,23 @@
+<div class="panel-container">
+  <h1>Recently News</h1>
+  <div class="divisor"></div>
+  <div class="container" *ngIf="newsList.length > 0">
+    <app-big-card
+      [title]="newsList[0].title"
+      [description]="newsList[0].description"
+      [image]="newsList[0].image"
+      [time]="newsList[0].time"
+    ></app-big-card>
+
+    <div class="small-cards">
+      <div class="app-small-card" *ngFor="let news of newsList.slice(1, 4)">
+        <app-small-card
+          [title]="news.title"
+          [description]="news.description"
+          [image]="news.image"
+          [time]="news.time"
+        ></app-small-card>
+      </div>
+    </div>
+  </div>
+</div>

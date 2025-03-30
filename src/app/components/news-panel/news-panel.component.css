@@ -1,0 +1,13 @@
+.news-container{
+  margin: 2rem 10rem;
+}
+
+.divisor {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+}
+
+.app-small-card{
+  margin: 2rem 0;
+}
