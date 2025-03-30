@@ -4,7 +4,7 @@ Este é um projeto desenvolvido como parte do bootcamp **DecolaTech 2025**, util
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Angular](https://angular.io/)
+- Angular
 - TypeScript
 - HTML5 / CSS3
 - JSON (mock de dados)
